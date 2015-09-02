@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */ 
+body{ color:#333333;}
+ .main{
+	width:100%;
+	height:1100px;
+	margin-top:10px;
+	}
+.m_left1{
+	width:666px;
+	height:100%;
+	float:left;
+	margin-left:10px;
+	}
+.bt{ 
+	font-size:18px;
+	font-weight:bold;
+	color:#366090;
+	}
+.td_x2{
+	width:98%;
+	height:2px;
+	background-color:#FDE4E8;
+	}
+.td_x3{
+	width:50%;
+	height:1px;
+	background-color:#CCCCCC;
+	}

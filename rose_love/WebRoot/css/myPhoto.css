@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+.main{
+	width:100%;
+	height:900px;
+	margin-top:10px;
+	}
+.photo_top_bj{
+	width:555px;
+	height:30px;
+	background-color:#FEF3D3;
+	}
+.photo_body{
+	width:553px; 
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #FEF3D3;
+	border-right-color: #FEF3D3;
+	border-bottom-color: #FEF3D3;
+	border-left-color: #FEF3D3;
+	margin-bottom:10px;
+	}

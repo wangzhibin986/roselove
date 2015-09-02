@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body{ 
+	color:#666666;
+	}
+.hyzc{
+	width:646px;  
+	margin:30px auto;}
+.zc_tb{
+	width:646px;
+	margin:0px auto;}
+.main{
+	width:100%;
+	height:1081px;
+	margin-top:10px;
+	}
